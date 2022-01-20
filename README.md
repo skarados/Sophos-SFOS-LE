@@ -1,4 +1,4 @@
-# sophos
+# Sophos XG LE HOOK
 Upload LetsEncrypt Certificates via API and LE deploy-hook to Sophos XG SFOS
 
 
