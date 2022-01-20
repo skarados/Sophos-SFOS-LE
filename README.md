@@ -95,6 +95,7 @@ cd ~/.le
     * currently there is none..
 
 ## References
+* [Sophos XG SFOS API Referenz](https://docs.sophos.com/nsg/sophos-firewall/18.0/API/index.html)
 * [letsencrypt privkey.pem is the key file](https://stackoverflow.com/questions/50389883/generate-crt-key-ssl-files-from-lets-encrypt-from-scratch)
 * [configure sophos xg for API access](https://techbast.com/2019/10/sophos-xg-firewall-how-to-use-api.html)
 * [upload certificates to Sophos XG using API](https://community.sophos.com/products/xg-firewall/f/sophos-xg-firewall-general-discussion/102208/upload-certificate-using-api)
