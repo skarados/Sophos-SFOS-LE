@@ -1,5 +1,5 @@
 # sophos
-Notes &amp; Tools related to sophos products
+Upload LetsEncrypt Certificates via API and LE deploy-hook to Sophos XG SFOS
 
 
 ## letsencrypt
